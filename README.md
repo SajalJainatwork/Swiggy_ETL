@@ -1,4 +1,4 @@
-# 🍽 Swiggy Data Engineering Project (Snowflake + Streamlit)
+# 🟠🍽 Swiggy Data Engineering Project (Snowflake + Streamlit)
 
 An end-to-end data engineering project built using **Snowflake** (via Web UI) and a **Streamlit dashboard** for visualizing Swiggy order insights.  
 This project demonstrates data ingestion, transformation, aggregation, and visualization — fully in the cloud.
