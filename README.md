@@ -1,3 +1,7 @@
+<img width="1181" height="796" alt="PIZZA" src="https://github.com/user-attachments/assets/4b06539c-0640-4f57-8348-cd5709167887" />
+
+
+
 <img width="1600" height="900" alt="swigggy" src="https://github.com/user-attachments/assets/827705a8-9b5d-48d1-b8ec-0bdd2eb266bb" />
 
 # 🟠🍽 Swiggy Data Engineering Project (Snowflake + Streamlit)
